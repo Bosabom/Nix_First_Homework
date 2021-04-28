@@ -35,7 +35,6 @@ namespace Nix_First_Homework
         }
         public override void Move(double dx, double dy)
         {
-            //оформить норм
             foreach (var figure in figures)
             {
                 figure.Move(dx,dy);
@@ -43,7 +42,6 @@ namespace Nix_First_Homework
         }
         public override void Scale(double k)
         {
-            //оформить норм
             foreach(var figure in figures)
             {
                 figure.Scale(k);
