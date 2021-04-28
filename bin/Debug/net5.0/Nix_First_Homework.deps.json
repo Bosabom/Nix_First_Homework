@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nix_First_Homework/1.0.0": {
+        "runtime": {
+          "Nix_First_Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nix_First_Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\bin\Debug\net5.0\Nix_First_Homework.exe
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\bin\Debug\net5.0\Nix_First_Homework.deps.json
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\bin\Debug\net5.0\Nix_First_Homework.runtimeconfig.json
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\bin\Debug\net5.0\Nix_First_Homework.runtimeconfig.dev.json
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\bin\Debug\net5.0\Nix_First_Homework.dll
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\bin\Debug\net5.0\ref\Nix_First_Homework.dll
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\bin\Debug\net5.0\Nix_First_Homework.pdb
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.csprojAssemblyReference.cache
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.AssemblyInfoInputs.cache
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.AssemblyInfo.cs
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.csproj.CoreCompileInputs.cache
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.dll
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\ref\Nix_First_Homework.dll
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.pdb
+D:\Apps(c#)\Nix_First_Homework\Nix_First_Homework\obj\Debug\net5.0\Nix_First_Homework.genruntimeconfig.cache
